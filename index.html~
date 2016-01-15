@@ -64,8 +64,9 @@
 								</div>
 							</section>
 
-
+<<<<<<< HEAD
 						<!-- Suraj -->
+=======
 						<!-- Sarvani Profile -->
 							<section id="two" class="wrapper alt spotlight style2">
 								<div class="inner">
@@ -79,7 +80,7 @@
 							</section>	
 
 						<!-- Three -->
-
+>>>>>>> jaydatta
 							<section id="three" class="wrapper spotlight style3">
 								<div class="inner">
 									<a href="#" class="image"><img src="images/suraj.jpg" alt="" /></a>
