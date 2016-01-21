@@ -77,17 +77,7 @@
 									</div>
 								</div>
 							</section>
-<!-- Kavinya Profile -->
-							<section id="four" class="wrapper alt spotlight style4">
-								<div class="inner">
-									<a href="#" class="image"><img src="images/kavinya.jpg" alt="" /></a>
-									<div class="content">
-										<h2 class="major">Kavinya Rajendran</h2>
-										<p>Kavinya Rajendran is a Computer Science masters student at Arizona State University with a concentration in Big Data Systems.</p>
-										<a href="kavinya.html" class="special">Learn more</a>
-									</div>
-								</div>
-							</section>	
+
 						<!-- Three -->
 
 							<section id="four" class="wrapper spotlight style2">
@@ -127,8 +117,8 @@
 								<div class="inner">
 									<a href="#" class="image"><img src="images/Thara.jpg" alt="" /></a>
 									<div class="content">
-										<h2 class="major">Thara Sridhar, MCS Big Data</h2>
-										<p>Thara Sridhar is a Computer Science Graduate Student who joined Arizona State University in Fall 2015</p>
+										<h2 class="major">Thara Sridar, MCS Big Data</h2>
+										<p>Thara Sridar is a Computer Science Graduate Student who joined Arizona State University in Fall 2015</p>
 										<a href="tara.html" class="special">Learn more</a>
 									</div>
 								</div>
@@ -174,7 +164,7 @@
 									<a href="#" class="image"><img src="images/manojpic.jpg" alt="" /></a>
 									<div class="content">
 										<h2 class="major">Manoj Rajandrakumar</h2>
-										<p>Manoj Rajandrakumar is a graduate student earning his master’s degree in computer science at Arizona State University.</p>
+										<p>Manoj Rajandrakumar is a graduate student earning his masterâ€™s degree in computer science at Arizona State University.</p>
 										<a href="manoj.html" class="special">Learn more</a>
 									</div>
 								</div>
@@ -241,28 +231,6 @@
 							</div>
 						</section>
 
-					</section>
-<!-- Four -->
-							<section id="four" class="wrapper spotlight style1">
-								<div class="inner">
-									<a href="#" class="image"><img src="images/Vikranth_Doosa.jpg" alt="" /></a>
-									<div class="content">
-										<h2 class="major">Vikranth Doosa</h2>
-										<p>Vikranth Doosa is a Masters Student at Arizona State University.</p>
-										<a href="vikranth.html" class="special">Learn more</a>
-									</div>
-								</div>
-							</section>
-					<!--Author Vivek Narsimha Dondeti -->		
-					<section id="madhu" class="wrapper spotlight style1">
-						<div class="inner">
-							<a href="#" class="image"><img src="images/MadhuMeghanaTalasila.jpg" alt="" /></a>
-							<div class="content">
-								<h2 class="major">Madhu Meghana Talasila</h2>
-								<p>Madhu Meghana Talasila is a Masters Student with Big data concentration at Arizona State University.</p>
-								<a href="MadhuMeghanaTalasila.html" class="special">Learn more</a>
-							</div>
-						</div>
 					</section>
 
 					<section id="footer">
