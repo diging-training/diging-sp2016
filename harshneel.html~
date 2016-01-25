@@ -9,7 +9,7 @@
 		<title>DigInG Class Spring 2016</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></sript><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
@@ -41,12 +41,12 @@
 						<!-- One -->
 							<section id="one" class="wrapper spotlight style1">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/Vikranth_Doosa.jpg" alt="" /></a>
+									<a href="#" class="image"><img src="images/harshaneel.jpg" alt="" /></a>
 									<div class="content">
-										<h2 class="major">Vikranth Doosa, Ms</h2>
-										<p>Vikranth Doosa hails from Hyderabad.He is pursuing his Masters in Computer Science from Arizona State University currently doing his third semester. He arrived in Tempe in spring 2015.He completed his Undergraduate in Computer Science from srinidhi institute of Science and Technology, Hyderabad.After he completed his undergraduate in 2012, he worked in Cognizant Technologies for 2 years as a Software Developer in Hyderabad.
-<p>His interests in computer Science include Web Security and Web Technologies.His hobbies include playing cricket,painting and watching movies.
-										
+										<h2 class="major">Harshneel, Graduate Student</h2>
+										<p>Harshaneel is a computer science graduate student. He loves astrophysics and exploring. Someday he wants to go on a road trip to non- mainstream places like Croatia, Prague and explore the ancient civilization and history of those places.
+										</p>
+										<p></p>										
 									</div>
 								</div>
 							</section>
