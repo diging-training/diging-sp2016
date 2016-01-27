@@ -253,6 +253,28 @@
 									</div>
 								</div>
 							</section>
+					<!--Author Vivek Narsimha Dondeti -->		
+					<section id="madhu" class="wrapper spotlight style1">
+						<div class="inner">
+							<a href="#" class="image"><img src="images/MadhuMeghanaTalasila.jpg" alt="" /></a>
+							<div class="content">
+								<h2 class="major">Madhu Meghana Talasila</h2>
+								<p>Madhu Meghana Talasila is a Masters Student with Big data concentration at Arizona State University.</p>
+								<a href="MadhuMeghanaTalasila.html" class="special">Learn more</a>
+							</div>
+						</div>
+					</section>
+					<!--Author Ankita -->		
+					<section id="vivek" class="wrapper spotlight style1">
+						<div class="inner">
+							<a href="#" class="image"><img src="images/VivekNarsimha.jpg" alt="" /></a>
+							<div class="content">
+								<h2 class="major">Vivek Narsimha Dondeti </h2>
+								<p>Vivek Narsimha Dondeti is Computer Science Masters student at Arizona State University.</p>
+								<a href="vivek.html" class="special">Learn more</a>
+							</div>
+						</div>
+					</section>
 
 					
 					<!-- Harshaneel -->
@@ -262,7 +284,21 @@
 								<div class="content">
 									<h2 class="major">Harshaneel Gokhale</h2>
 									<p>Harshaneel Gokhale is a masters student in Computer Science</p>
-									<a href="harhshaneel.html" class="special">Learn more</a>
+									<a href="harshaneel.html" class="special">Learn more</a>
+								</div>
+							</div>
+						</section>
+
+					</section>
+
+					<!-- Niranjan -->
+						<section id="niranjan" class="wrapper spotlight style2">
+							<div class="inner">
+								<a href="#" class="image"><img src="images/niranjan.jpg" alt="" /></a>
+								<div class="content">
+									<h2 class="major">Niranjan Krishna</h2>
+									<p>Niranjan Krishna is a masters student in Computer Science</p>
+									<a href="niranjan.html" class="special">Learn more</a>
 								</div>
 							</div>
 						</section>
